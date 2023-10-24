@@ -2,16 +2,6 @@ READSCAPE LANDING PAGE:
 
  welcome to Readscape landing page. This page is created using HTML, CSS, Javascript with Animations
 
- TABLE OF CONTENTS:
- 
- Home
- 
- About
- 
- Services
- 
- Contact
-
  TECHNOLOGIES USED:
 
  HTML
