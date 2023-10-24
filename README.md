@@ -5,15 +5,21 @@ READSCAPE LANDING PAGE:
  TABLE OF CONTENTS:
  
  Home
+ 
  About
+ 
  Services
+ 
  Contact
 
  TECHNOLOGIES USED:
 
  HTML
+ 
  CSS
+ 
  JavaScript
+ 
  Animations
 
  CUSTOMIZING THE CONTENT:
